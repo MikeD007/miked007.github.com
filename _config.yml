@@ -1,8 +1,8 @@
 title: John Smith
 description: My Personal Blog
 author: John Smith
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
+logo: https://miked007.github.io/static/img/avatar.png
+github: https://github.com/MikeD007
 about: Freelance developer
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
@@ -21,7 +21,7 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/MikeD007
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
@@ -48,8 +48,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/hcz-jekyll-blog"
+url: "https://miked007.github.io"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
